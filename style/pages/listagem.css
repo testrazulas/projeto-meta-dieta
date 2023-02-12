@@ -1,0 +1,12 @@
+.tt-listagem{
+
+}
+
+
+.tt-listagem>.tt-wrapper>.tt-main>.title-button{
+
+}
+
+.tt-listagem>.tt-wrapper>.tt-main>.title-button>.title{
+    background-color: red;
+}

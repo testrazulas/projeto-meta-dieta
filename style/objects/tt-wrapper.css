@@ -10,6 +10,12 @@
 
 }
 
+.tt-wrapper>.tt-main.-one-col{
+    grid-template-columns: 1fr;
+
+}
+
+
 .tt-wrapper>.tt-main>.tt-informacoes{
     padding-top: 48px;
 }
