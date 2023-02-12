@@ -2,11 +2,21 @@
 
 }
 
+.tt-listagem>.tt-wrapper>.tt-main{
+    margin-top: 40px;
+}
 
 .tt-listagem>.tt-wrapper>.tt-main>.title-button{
-
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
 }
 
 .tt-listagem>.tt-wrapper>.tt-main>.title-button>.title{
-    background-color: red;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.tt-listagem>.tt-wrapper>.tt-main>.title-button>.title>.button-wrapper{
+
 }
