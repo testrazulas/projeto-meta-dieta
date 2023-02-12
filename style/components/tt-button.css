@@ -12,6 +12,11 @@
     transition: background-color 0.5s;
 }
 
+.tt-button.-small{
+    padding: 11px 39px;
+    font-size: 14px;
+}
+
 .tt-button:hover{
     background-color: var(--tt-color-primary-light);
 }

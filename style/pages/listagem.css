@@ -20,3 +20,8 @@
 .tt-listagem>.tt-wrapper>.tt-main>.title-button>.title>.button-wrapper{
 
 }
+
+
+.tt-listagem>.tt-wrapper>.tt-main>.table-wrapper{
+    margin-top: 30px;
+}
