@@ -1,0 +1,40 @@
+.tt-cadastro>.tt-wrapper>.tt-main>.tt-informacoes{
+    max-width: 480px;
+    margin: 0 auto;
+}
+
+.tt-cadastro>.tt-wrapper>.tt-main>.tt-informacoes>.mes{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    font-weight: 800;
+    color: var(--tt-color-gray);
+    margin-bottom: 20px;
+}
+
+.tt-cadastro>.tt-wrapper>.tt-main>.tt-informacoes>.tt-title{
+    font-family: var(--font-family-base);
+    font-size: calc(var(--font-size-base) + 22px);
+    font-weight: 800;
+    display: flex;
+    justify-content: center;
+    color: #245a1e;
+}
+
+
+.tt-cadastro>.tt-wrapper>.tt-main>.tt-informacoes>.radio-buttons{
+    margin-bottom: 42px;
+
+}
+
+.tt-cadastro>.tt-wrapper>.tt-main>.tt-informacoes>.radio-buttons>.title{
+    font-size: calc(var(--font-size-base)+ 8px);
+    font-weight: 800;
+    margin-bottom: 16px;
+    margin-top: 42px;
+}
+
+.tt-cadastro>.tt-wrapper>.tt-main>.tt-informacoes>.radio-buttons>.buttons>.tt-radio{
+    margin-right: 70px;
+
+}

@@ -1,0 +1,30 @@
+.tt-wrapper{
+    max-width: var(--tt-main-wrapper);
+    margin: 0 auto;
+}
+
+.tt-wrapper>.tt-main{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding-top: 110px
+
+}
+
+.tt-wrapper>.tt-main>.tt-informacoes{
+    padding-top: 48px;
+}
+
+.tt-wrapper>.tt-main>.tt-images{
+    overflow: hidden;
+    position: relative;
+    height: 100vh;
+}
+
+.tt-wrapper>.tt-main>.tt-images>.image{
+    height: 100%;
+    position: absolute;
+    top: 0;
+    min-width: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+}

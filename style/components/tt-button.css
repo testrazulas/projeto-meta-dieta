@@ -1,0 +1,17 @@
+.tt-button{
+    width: 100%;
+    background-color: var(--tt-color-primary);
+    font-family: var(--font-family-base);
+    font-size: calc(var(--font-size-base) + 8px);
+    color: white;
+    border-radius: 50px;
+    font-weight: 800;
+    border: none;
+    padding: 20px;
+    cursor: pointer;
+    transition: background-color 0.5s;
+}
+
+.tt-button:hover{
+    background-color: var(--tt-color-primary-light);
+}

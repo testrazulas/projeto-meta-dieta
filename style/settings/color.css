@@ -1,0 +1,14 @@
+:root{
+    /*PRIMARY*/
+    --tt-color-primary-light: #4ecb4e;
+    --tt-color-primary: #52b247;
+
+    /*DANGER*/
+    --tt-color-danger: #FF2222;
+
+    /*GRAY*/
+    --tt-color-gray: #767694;
+    --tt-color-gray-light: #B8B7B7;
+    --tt-color-gray-lighter: #F9FBFD;
+    --tt-color-gray-dark: #09090A;
+}
